@@ -7,6 +7,7 @@ public class Sample {
 	
 	void dis() {
 		System.err.println("this is sample method");
+		System.out.println("Hi");
 	}
 
 }
